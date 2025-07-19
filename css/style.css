@@ -536,9 +536,12 @@ body {
 }
 .info .info-content .info-info {
   float: left;
-  width: 20%;
+  width: 21%;
   padding: 0 20px;
   text-align: center;
+}
+.info .info-content .midle-card1 {
+  margin-right: 5%;
 }
 .info .info-content .info-info i {
   font-size: 35px;
